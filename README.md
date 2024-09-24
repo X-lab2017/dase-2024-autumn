@@ -25,7 +25,7 @@ Introduction to Data Science and Engineering - 2024 Autumn
 | 周数📆 | 日期🕣 | 内容📒 | 主讲💂‍♂️ | 本周任务 📌| 课件📘 |开放资源📂 |
 | :----: | :----: | ------ | :----------------------------------------: | :-----------------------------------------------------: | :--------------------------------------------------------------------------------: | :-------------------------------------------------------------: |
 |   01   | 09-10 | 数据科学概述 | [@will-ww](https://github.com/will-ww) | [任务01](https://github.com/X-lab2017/dase-2024-autumn/issues/2) |[课件01](https://github.com/X-lab2017/dase-2024-autumn/blob/main/lecture01/01%20%E7%BB%AA%E8%AE%BA%E4%B8%8E%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D.pdf)| [资料](https://github.com/X-lab2017/dase-2024-autumn/tree/main/recourse) |
-| 03 | 09-24 | 数据思维与案例 | [@will-ww](https://github.com/will-ww) | [任务02](https://github.com/X-lab2017/dase-2024-autumn/issues/8) |[课件02]([dase-2024-autumn/lecture02/01 绪论.pdf at main · X-lab2017/dase-2024-autumn (github.com)](https://github.com/X-lab2017/dase-2024-autumn/blob/main/lecture02/01 绪论.pdf))| [资料](https://github.com/X-lab2017/dase-2024-autumn/tree/main/recourse) |
+| 03 | 09-24 | 数据思维与案例 | [@will-ww](https://github.com/will-ww) | [任务02](https://github.com/X-lab2017/dase-2024-autumn/issues/8) |[课件02](https://github.com/X-lab2017/dase-2024-autumn/blob/main/lecture02/01 绪论.pdf)| [资料](https://github.com/X-lab2017/dase-2024-autumn/tree/main/recourse) |
 
 
 ---
