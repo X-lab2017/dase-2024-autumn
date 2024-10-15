@@ -28,9 +28,9 @@ Introduction to Data Science and Engineering - 2024 Autumn
 | 02 | 09-17 | 中秋节 | | | | |
 | 03 | 09-24 | 数据思维与案例 | [@will-ww](https://github.com/will-ww) | [任务02](https://github.com/X-lab2017/dase-2024-autumn/issues/8) |[课件02](https://github.com/X-lab2017/dase-2024-autumn/blob/main/lecture02/绪论.pdf)| [资料](https://github.com/X-lab2017/dase-2024-autumn/tree/main/recourse) |
 | 04 | 10-01 | 国庆节 | | | | |
-| 05 | 09-24 | 数据思维与案例 | [@will-ww](https://github.com/will-ww) | [任务03](https://github.com/X-lab2017/dase-2024-autumn/issues/15) |[课件03](https://github.com/X-lab2017/dase-2024-autumn/tree/main/lecture03)| [资料](https://github.com/X-lab2017/dase-2024-autumn/tree/main/recourse) |
-| 04 | 10-08 | 数据模型与结构 |[@will-ww](https://github.com/will-ww) | [任务04](https://github.com/X-lab2017/dase-2024-autumn/issues/15)|[课件04](https://github.com/X-lab2017/dase-2024-autumn/tree/main/lecture03) |[资料](https://github.com/X-lab2017/dase-2024-autumn/tree/main/recourse) |
-| 04 | 10-15 |  | [@will-ww](https://github.com/will-ww) | [任务05](https://github.com/X-lab2017/dase-2024-autumn/issues/19) | | [资料](https://github.com/X-lab2017/dase-2024-autumn/tree/main/recourse) |
+| 05 | 09-24 | 数据思维与问题求解 | [@will-ww](https://github.com/will-ww) | [任务03](https://github.com/X-lab2017/dase-2024-autumn/issues/15) |[课件03](https://github.com/X-lab2017/dase-2024-autumn/tree/main/lecture03)| [资料](https://github.com/X-lab2017/dase-2024-autumn/tree/main/recourse) |
+| 06 | 10-08 | 数据模型与结构 |[@will-ww](https://github.com/will-ww) | [任务04](https://github.com/X-lab2017/dase-2024-autumn/issues/15)|[课件04](https://github.com/X-lab2017/dase-2024-autumn/tree/main/lecture03) |[资料](https://github.com/X-lab2017/dase-2024-autumn/tree/main/recourse) |
+| 07 | 10-15 | 数据的计算与程序表达/计算基础设施 | [@will-ww](https://github.com/will-ww) | [任务05](https://github.com/X-lab2017/dase-2024-autumn/issues/19) | [课件05](https://github.com/X-lab2017/dase-2024-autumn/tree/main/lecture04) | [资料](https://github.com/X-lab2017/dase-2024-autumn/tree/main/recourse) |
 ---
 
 
