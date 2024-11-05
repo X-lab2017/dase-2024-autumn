@@ -33,6 +33,7 @@ Introduction to Data Science and Engineering - 2024 Autumn
 |  07   | 10-15 | 数据的计算与程序表达/计算基础设施 | [@will-ww](https://github.com/will-ww) | [任务05](https://github.com/X-lab2017/dase-2024-autumn/issues/19) |                                     [课件05](https://github.com/X-lab2017/dase-2024-autumn/tree/main/lecture04)                                      | [资料](https://github.com/X-lab2017/dase-2024-autumn/tree/main/recourse) |
 |  08   | 10-22 | 数据的全生命周期管理              | [@will-ww](https://github.com/will-ww) | [任务06](https://github.com/X-lab2017/dase-2024-autumn/issues/22) |                                     [课件06](https://github.com/X-lab2017/dase-2024-autumn/tree/main/lecture05)                                      | [资料](https://github.com/X-lab2017/dase-2024-autumn/tree/main/recourse) |
 |  09   | 10-29 | 数据库系统与大数据系统            | [@will-ww](https://github.com/will-ww) | [任务07](https://github.com/X-lab2017/dase-2024-autumn/issues/25) |                                     [课件07](https://github.com/X-lab2017/dase-2024-autumn/tree/main/lecture06)                                      | [资料](https://github.com/X-lab2017/dase-2024-autumn/tree/main/recourse) |
+|  10   | 11-05 | 数据科学过程和统计分析原理        | [@will-ww](https://github.com/will-ww) | [任务08](https://github.com/X-lab2017/dase-2024-autumn/issues/28) |                                     [课件08](https://github.com/X-lab2017/dase-2024-autumn/tree/main/lecture07)                                      | [资料](https://github.com/X-lab2017/dase-2024-autumn/tree/main/recourse) |
 ---
 
 
